@@ -2,4 +2,6 @@
 
 # Roles and responsibility
 
-# data standards and 
+# data standards and metadata
+
+# storage and 
